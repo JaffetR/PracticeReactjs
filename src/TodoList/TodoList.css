@@ -1,0 +1,8 @@
+ul {
+    border-radius: 5px;
+    border-color: transparent;
+    padding-right: 30px;
+    background-color: transparent;
+    display:flexbox;
+    justify-content: space-around;
+}

@@ -1,0 +1,23 @@
+
+li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-color: transparent;
+    width: 100%; 
+    border: 2px solid #d9e2e7; 
+    border-radius: 5px; 
+    outline: none; 
+    font-size: 16px;
+    margin: 25px 0;
+}
+
+li span {
+    margin: 5px 15px;
+}
+
+li span:hover{
+    color: greenyellow;
+    cursor: pointer;
+    font-size: 25px;
+}
